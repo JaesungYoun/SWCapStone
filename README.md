@@ -77,9 +77,10 @@ Short Video 16 Long video 4
 
 ## 3. Classification
 
-- 감정 중 Arousal, Valence 을 Label로 활용 ![image](https://user-images.githubusercontent.com/73388615/122946382-47604e80-d3b4-11eb-9de7-d071bd5f352b.png)
+- 감정 중 Arousal, Valence 을 Label로 활용 
 
-   - Arousal >= 5  High Arousal
+   - Arousal >= 5  High Arousal      ![image](https://user-images.githubusercontent.com/73388615/122946468-56470100-d3b4-11eb-9428-063f25ee38e5.png)
+
    - Arousal  <  5  Low Arousal
    - Valence >= 5  High Valence
    - Valence  < 5   Low Valence
