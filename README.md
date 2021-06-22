@@ -97,13 +97,41 @@ Short Video 16 Long video 4
 ![image](https://user-images.githubusercontent.com/73388615/122946672-868e9f80-d3b4-11eb-8055-15111d0c4af0.png)
 
 - Random Forest
-   All of videos 
+  
+   - All of videos 
 
 ![image](https://user-images.githubusercontent.com/73388615/122947099-dbcab100-d3b4-11eb-87bf-87442c06c0bc.png)
 
-   Only short video 
+![image](https://user-images.githubusercontent.com/73388615/122947206-f43acb80-d3b4-11eb-9140-772d77c9371e.png)
+
+
+   - Only short video 
 
 ![image](https://user-images.githubusercontent.com/73388615/122947064-d53c3980-d3b4-11eb-837c-a79a826f0258.png)
+
+![image](https://user-images.githubusercontent.com/73388615/122947236-f735bc00-d3b4-11eb-990a-71b8700c66f3.png)
+
+### Binary Classification
+
+- All of videos (accuracy = 74%, F1-score = 0.78)
+
+![image](https://user-images.githubusercontent.com/73388615/122947378-0fa5d680-d3b5-11eb-913b-0682358e1b66.png)
+
+## 4. Conclusion
+
+- Multiclass-classification은 성능이 생각보다 많이 낮음
+
+- Channel이 1개인 GSR 신호만으로 높은 성능을 내는데에 한계가 있음
+      -> EEG, ECG 등 다른 생체신호도 데이터를 접목해서
+          성능을 높일 예정
+
+- Arousal, Valence만 활용하여 감정 매핑을 하는 것이 아닌 다른 감정들도 Label로 활용
+
+
+
+
+
+
 
 
 
