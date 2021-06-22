@@ -89,17 +89,21 @@ Short Video 16 Long video 4
 ### Multi-class Classification
 
 - Linear SVM
-   - All of videos 
+     All of videos 
 
 ![image](https://user-images.githubusercontent.com/73388615/122946590-74acfc80-d3b4-11eb-9e93-479320036637.png)
-   - Only short video
+     Only short video
 
 ![image](https://user-images.githubusercontent.com/73388615/122946672-868e9f80-d3b4-11eb-8055-15111d0c4af0.png)
 
+- Random Forest
+   All of videos 
 
+![image](https://user-images.githubusercontent.com/73388615/122947099-dbcab100-d3b4-11eb-87bf-87442c06c0bc.png)
 
+   Only short video 
 
-
+![image](https://user-images.githubusercontent.com/73388615/122947064-d53c3980-d3b4-11eb-837c-a79a826f0258.png)
 
 
 
