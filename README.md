@@ -12,17 +12,35 @@
 
 GSR 센서를 사용하여 요가와 같은 정적 활동을 보다 잘 측정 할 수있는 웨어러블 플랫폼을 개발
 
-GSR
+### GSR
 피부의 전기적 특성을 지속적으로 변화시키는 인체의 특성
-
 GSR 센서는 피부의 전기 전도도를 측정하여 심리적 각성의 척도를 제공함
-
 과거 GSR은 심전도 (EKG)와 같은 의료 기술을 개발하는 데 사용되며 자율 신경계의 동정적인 활동과 관련된 땀샘 활동을 추적하여 심리적, 정서적, 생리적 각성과 동요를 감지하는 방법으로도 사용됨
-
 실제로 GSR은 스트레스를받는 사람을 표시 할 수 있음
-
 GSR 측정 시 손가락이나 손목에 전극 두 개를 놓고 피부의 전도도를 측정
 
 
-
 ![image](https://user-images.githubusercontent.com/73388615/122944729-06b40580-d3b3-11eb-9478-5b4199bd5bd6.png)
+
+
+감정 분류 방법
+Multi-class classification-
+HAHV(High-Arousal,High-Valence), HALV(Hig
+   Arousal,Low-Valence), LALV(Low-Arousal,Low- 
+   Valence),LAHV(Low-Arousal,High-Valence) 4가지
+   Label
+
+Binary classification
+    - HA(High-Arousal), LA(Low-Arousal)
+    - HV(High-Valence), LV(Low-Valence)  
+    
+    
+![image](https://user-images.githubusercontent.com/73388615/122945330-7aeea900-d3b3-11eb-8d62-fe8ecf1f8539.png)
+
+
+
+
+
+
+
+
