@@ -23,8 +23,8 @@ GSR 측정 시 손가락이나 손목에 전극 두 개를 놓고 피부의 전�
 ![image](https://user-images.githubusercontent.com/73388615/122944729-06b40580-d3b3-11eb-9478-5b4199bd5bd6.png)
 
 
-감정 분류 방법
-Multi-class classification-
+### 감정 분류 방법
+- Multi-class classification-
 HAHV(High-Arousal,High-Valence), HALV(Hig
    Arousal,Low-Valence), LALV(Low-Arousal,Low- 
    Valence),LAHV(Low-Arousal,High-Valence) 4가지
