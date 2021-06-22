@@ -92,7 +92,7 @@ Short Video 16 Long video 4
    - All of videos 
 
 ![image](https://user-images.githubusercontent.com/73388615/122946590-74acfc80-d3b4-11eb-9e93-479320036637.png)
-        - Only short video 
+   - Only short video
 
 ![image](https://user-images.githubusercontent.com/73388615/122946672-868e9f80-d3b4-11eb-8055-15111d0c4af0.png)
 
