@@ -55,6 +55,26 @@ Short Video 16 Long video 4
 
 ![image](https://user-images.githubusercontent.com/73388615/122945898-de78d680-d3b3-11eb-9a98-8e26eef66d94.png)
 
+### Feature Extraction(Time Domain)
+- Min 각 신호들의 최솟값 
+- Max 각 신호들의 최댓값
+- Mean 각 신호들의 평균
+- STD 각 신호들의 표준편차
+- Median 각 신호들의 중위값 
+- Variance 각 신호들의 분산
+- Skewness(왜도)
+  - 분포의 비대칭성을 나타내는 척도
+  - 특정 데이터의 분포 모양이 정규분포에서 어느 정도 벗어나있는지 알 수 있음
+- Kurtosis(첨도)
+   - 분포의 뾰족한 정도를 나타내는 척도
+   - 특정 데이터의 분포 모양이 정규분포에서 어느 정도 벗어나있는지 알 수 있음
+- Shannon Entropy(SE)
+  - 신호의 Complexity를 반영해주는 Measure
+- Log Energy Entropy(LEE)
+  -  신호의 Complexity를 반영해주는 Measure
+- Peak
+  - 신호에서 나타나는 봉우리 수 
+
 
 
 
